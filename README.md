@@ -40,12 +40,12 @@ The explanation for the spike after crossing over the forecast line following th
 
 Markets are assumed to be efficient, hence The Efficient Market Hypothesis (EMH), but human behavior and cognitive biases can lead to market inefficiencies, that invalidate forecasts/statistical models, such as overreaction or underreaction to news which can be exploited by skilled investors/traders.
 
-Consequences of Model Errors
+Consequences of Model Errors:
 The errors in the model, reflected in the residuals, have implications for forecasting NVIDIA stock prices:
 Forecast Reliability: High residual errors indicate potential challenges in accurately predicting future stock prices. This uncertainty can impact financial decisions and risk assessments based on the forecast.
 Structural Insights: Persistent patterns or non-random behavior in residuals suggest that additional factors or variables may influence NVIDIA stock prices, beyond those accounted for in the current model. Exploring and incorporating such factors could improve forecast accuracy.
 
-Conclusion
+Conclusion:
 In conclusion, the seasonal and trend decomposition model provided valuable insights into the historical trends and patterns in NVIDIA stock prices. However, residual analysis indicates remaining uncertainty and potential for further model refinement. Continued monitoring and adjustment based on new data and insights will enhance the accuracy and reliability of future forecasts.
 Cup and Handle Pattern: How to Trade and Target with an Example (investopedia.com)
 Efficient Market Hypothesis (EMH): Definition and Critique (investopedia.com)
